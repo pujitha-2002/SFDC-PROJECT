@@ -4,5 +4,6 @@
 This is your new Page
 <h1>Hey Welcome to Salesforce</h1>
 <p>Get Started</p>
+<h1>Thankyou...</h1>
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
