@@ -3,5 +3,6 @@
 <h1>Congratulations</h1>
 This is your new Page
 <h1>Hey Welcome to Salesforce</h1>
+<p>Get Started</p>
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
